@@ -1,20 +1,20 @@
-![Watch Now](./img/Design.jpg)
-# One page Portfolio Website (HTML CSS Project)
-**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
+Subhash Suthar's Web Development Portfolio
+Welcome to my web development portfolio! This portfolio showcases my skills and abilities as a web developer.
 
----
+Getting Started
+To view my portfolio, follow these steps:
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+Download the code from the repository.
+Open the folder.
+Open the index.html file.
+Run the file in your browser.
+The portfolio contains HTML, CSS, JavaScript and all necessary files.
 
-Like my works and want to support me?
+Project Overview
+This portfolio features a collection of my best web development work, including information about each project, screenshots, and links to live demos. It highlights my technical skills and showcases my ability to create beautiful, functional websites.
 
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+Contact Me
+If you have any questions or would like to discuss potential projects, please feel free to contact me at info.subhashsuthar@gmail.com.
 
----
-
-## Other projects
-
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-  
-
+Thank you for visiting my portfolio. I hope you enjoy exploring my work!
 
